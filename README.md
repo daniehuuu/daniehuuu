@@ -1,4 +1,4 @@
-- 👨‍💻 Learning C++ & DSA
+- 👨‍💻 Learning Python & DBs
 - 📊 Aspiring Data Scientist
 <!---
 daniehuuu/daniehuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
